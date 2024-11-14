@@ -1,1 +1,0 @@
-Deze complexe script logt je IP adres en stuurt het naar mijn server.
